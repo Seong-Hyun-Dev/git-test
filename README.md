@@ -1,4 +1,6 @@
-# git-test
+### Git test
+
+#### 20220917(sat)
 
 - github에서 git-test폴더 생성 후 README.md파일 생성
   1. 목적 : 로컬에 폴더 생성 후 리모트 연결
